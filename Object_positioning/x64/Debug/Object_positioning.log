@@ -1,0 +1,3 @@
+﻿  Object_positioning.cpp
+E:\Visual Studio work\z1j1n1\Object_positioning\Object_positioning.cpp(17,12): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+  Object_positioning.vcxproj -> E:\Visual Studio work\z1j1n1\Object_positioning\x64\Debug\Object_positioning.exe
